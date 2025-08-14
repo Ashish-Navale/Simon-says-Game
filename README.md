@@ -1,9 +1,9 @@
-🎮 Simon Says Game
+## 🎮 Simon Says Game
 
 A fun, interactive browser-based version of the classic Simon Says memory game, built using HTML, CSS, and JavaScript.
 Test your memory skills by following and repeating the sequence of colors as the game progresses.
 
-🚀 Features
+## 🚀 Features
 
 Dynamic Level Progression – Difficulty increases as you advance.
 Visual Feedback – Buttons flash to indicate sequences.
@@ -11,13 +11,13 @@ Interactive Gameplay – Start the game with any key press and play with mouse c
 Game Over Display – Shows your score at the end.
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – Structure and content.
 CSS3 – Styling and animations.
 JavaScript (Vanilla) – Game logic, event handling, and DOM manipulation.
 
-🎯 How to Play
+## 🎯 How to Play
 
 1) Start – Press any key to begin.
 2) Watch – A colored button will flash.
@@ -25,14 +25,17 @@ JavaScript (Vanilla) – Game logic, event handling, and DOM manipulation.
 4) Level Up – Each round adds a new color to the sequence.
 5) Lose – Game ends when you click the wrong button.
 
-📂 Project Structure
-
+## 📂 Project Structure
+```
 ├── index.html      # Main HTML file  
 ├── simon.css       # Stylesheet  
-├── simon.js        # Game logic  
+├── simon.js        # Game logic
+```
 
-📸 Screenshot
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b4d28f14-49c5-4cfa-a12b-24c7ef56c27b" />
+## 📸 Screenshot
+
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/b4d28f14-49c5-4cfa-a12b-24c7ef56c27b" />
 
 
-💻 Live Demo
+## 💻 Live Demo
+[Click here to play game](
