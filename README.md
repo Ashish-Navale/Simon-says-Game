@@ -5,17 +5,17 @@ Test your memory skills by following and repeating the sequence of colors as the
 
 ## 🚀 Features
 
-*Dynamic Level Progression – Difficulty increases as you advance.
-*Visual Feedback – Buttons flash to indicate sequences.
-*Interactive Gameplay – Start the game with any key press and play with mouse clicks.
-*Game Over Display – Shows your score at the end.
+- Dynamic Level Progression – Difficulty increases as you advance.
+- Visual Feedback – Buttons flash to indicate sequences.
+- Interactive Gameplay – Start the game with any key press and play with mouse clicks.
+- Game Over Display – Shows your score at the end.
 
 
 ## 🛠️ Technologies Used
 
-*HTML5 – Structure and content.
-*CSS3 – Styling and animations.
-*JavaScript (Vanilla) – Game logic, event handling, and DOM manipulation.
+- HTML5 – Structure and content.
+- CSS3 – Styling and animations.
+- JavaScript (Vanilla) – Game logic, event handling, and DOM manipulation.
 
 ## 🎯 How to Play
 
